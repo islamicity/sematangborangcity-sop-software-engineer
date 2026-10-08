@@ -1,0 +1,6 @@
+{
+  "name": "Islamicity CloudOps - Enterprise SOP & Infrastructure Platform",
+  "description": "Platform infrastruktur cerdas & ekosistem rekayasa perangkat lunak enterprise dengan CI/CD, pemantauan real-time, RBAC, 120+ SOP & template berkas software engineering, dan manajemen komunitas dakwah & UMKM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
